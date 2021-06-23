@@ -3,7 +3,7 @@
         "_id": 1,
         "season": 1,
         "name": "Abby",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Abby.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Abby.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -11,7 +11,7 @@
         "_id": 2,
         "season": 1,
         "name": "Adam",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Adam.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Adam.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -19,7 +19,7 @@
         "_id": 3,
         "season": 1,
         "name": "Alicia",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Alicia.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Alicia.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -27,7 +27,7 @@
         "_id": 4,
         "season": 1,
         "name": "Ana",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Ana.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Ana.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -35,7 +35,7 @@
         "_id": 5,
         "season": 1,
         "name": "Andrew Ratri",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Andrew Ratri.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Andrew Ratri.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -43,7 +43,7 @@
         "_id": 6,
         "season": 1,
         "name": "Awla",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Awla.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Awla.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -51,7 +51,7 @@
         "_id": 7,
         "season": 1,
         "name": "Ayshe",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Ayshe.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Ayshe.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -59,7 +59,7 @@
         "_id": 8,
         "season": 1,
         "name": "Barbara",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Barbara.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Barbara.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -67,7 +67,7 @@
         "_id": 9,
         "season": 1,
         "name": "Bayon II",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Bayon II.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Bayon II.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -75,7 +75,7 @@
         "_id": 10,
         "season": 1,
         "name": "Bayon",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Bayon.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Bayon.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -83,7 +83,7 @@
         "_id": 11,
         "season": 1,
         "name": "Carol",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Carol.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Carol.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -91,7 +91,7 @@
         "_id": 12,
         "season": 1,
         "name": "Cecile",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Cecile.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Cecile.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -99,7 +99,7 @@
         "_id": 13,
         "season": 1,
         "name": "Chamberlain",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Chamberlain.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Chamberlain.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -107,7 +107,7 @@
         "_id": 14,
         "season": 1,
         "name": "Chris",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Chris.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Chris.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -115,7 +115,7 @@
         "_id": 15,
         "season": 1,
         "name": "Chucky",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Chucky.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Chucky.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -123,7 +123,7 @@
         "_id": 16,
         "season": 1,
         "name": "Cislo",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Cislo.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Cislo.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -131,7 +131,7 @@
         "_id": 17,
         "season": 1,
         "name": "Conny",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Conny.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Conny.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -139,7 +139,7 @@
         "_id": 18,
         "season": 1,
         "name": "Dalia",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Dalia.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Dalia.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -147,7 +147,7 @@
         "_id": 19,
         "season": 1,
         "name": "Damdin",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Damdin.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Damdin.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -155,7 +155,7 @@
         "_id": 20,
         "season": 1,
         "name": "Dina",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Dina.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Dina.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -163,7 +163,7 @@
         "_id": 21,
         "season": 1,
         "name": "Dominic",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Dominic.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Dominic.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -171,7 +171,7 @@
         "_id": 22,
         "season": 1,
         "name": "Don",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Don.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Don.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -179,7 +179,7 @@
         "_id": 23,
         "season": 1,
         "name": "Dozza",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Dozza.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Dozza.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -187,7 +187,7 @@
         "_id": 24,
         "season": 1,
         "name": "Emma",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Emma.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Emma.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -195,7 +195,7 @@
         "_id": 25,
         "season": 1,
         "name": "Eugene",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Eugene.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Eugene.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -203,7 +203,7 @@
         "_id": 26,
         "season": 1,
         "name": "Geelan",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Geelan.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Geelan.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -211,7 +211,7 @@
         "_id": 27,
         "season": 1,
         "name": "Gilda",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Gilda.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Gilda.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -219,7 +219,7 @@
         "_id": 28,
         "season": 1,
         "name": "Gillian",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Gillian.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Gillian.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -227,7 +227,7 @@
         "_id": 29,
         "season": 1,
         "name": "Hans",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Hans.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Hans.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -235,7 +235,7 @@
         "_id": 30,
         "season": 1,
         "name": "Hao",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Hao.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Hao.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -243,7 +243,7 @@
         "_id": 31,
         "season": 1,
         "name": "Hayato",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Hayato.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Hayato.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -251,7 +251,7 @@
         "_id": 32,
         "season": 1,
         "name": "Helena",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Helena.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Helena.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -259,7 +259,7 @@
         "_id": 33,
         "season": 1,
         "name": "Hijo de Bayon II",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Hijo de Bayon II.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Hijo de Bayon II.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -267,7 +267,7 @@
         "_id": 34,
         "season": 1,
         "name": "Impronunciable",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Impronunciable.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Impronunciable.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -275,7 +275,7 @@
         "_id": 35,
         "season": 1,
         "name": "Isabella",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Isabella.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Isabella.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -283,7 +283,7 @@
         "_id": 36,
         "season": 1,
         "name": "Jake",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Jake.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Jake.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -291,7 +291,7 @@
         "_id": 37,
         "season": 1,
         "name": "Jasper",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Jasper.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Jasper.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -299,7 +299,7 @@
         "_id": 38,
         "season": 1,
         "name": "Jemima",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Jemima.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Jemima.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -307,7 +307,7 @@
         "_id": 39,
         "season": 1,
         "name": "Jessica",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Jessica.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Jessica.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -315,7 +315,7 @@
         "_id": 40,
         "season": 1,
         "name": "Jimmy",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Jimmy.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Jimmy.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -323,7 +323,7 @@
         "_id": 41,
         "season": 1,
         "name": "Jin",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Jin.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Jin.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -331,7 +331,7 @@
         "_id": 42,
         "season": 1,
         "name": "Julius Ratri",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Julius Ratri.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Julius Ratri.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -339,7 +339,7 @@
         "_id": 43,
         "season": 1,
         "name": "Krone",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Krone.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Krone.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -347,7 +347,7 @@
         "_id": 44,
         "season": 1,
         "name": "Lannion",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Lannion.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Lannion.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -355,7 +355,7 @@
         "_id": 45,
         "season": 1,
         "name": "Leslie",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Leslie.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Leslie.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -363,7 +363,7 @@
         "_id": 46,
         "season": 1,
         "name": "Leuvis",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Leuvis.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Leuvis.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -371,7 +371,7 @@
         "_id": 47,
         "season": 1,
         "name": "Lucas",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Lucas.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Lucas.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -379,7 +379,7 @@
         "_id": 48,
         "season": 1,
         "name": "Luce",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Luce.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Luce.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -387,7 +387,7 @@
         "_id": 49,
         "season": 1,
         "name": "Marcus",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Marcus.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Marcus.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -395,7 +395,7 @@
         "_id": 50,
         "season": 1,
         "name": "Mark",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Mark.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Mark.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -403,7 +403,7 @@
         "_id": 51,
         "season": 1,
         "name": "Marnya",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Marnya.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Marnya.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -411,7 +411,7 @@
         "_id": 52,
         "season": 1,
         "name": "Matilda",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Matilda.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Matilda.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -419,7 +419,7 @@
         "_id": 53,
         "season": 1,
         "name": "Mawla",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Mawla.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Mawla.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -427,7 +427,7 @@
         "_id": 54,
         "season": 1,
         "name": "Michelle",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Michelle.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Michelle.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -435,7 +435,7 @@
         "_id": 55,
         "season": 1,
         "name": "Mike Ratri",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Mike Ratri.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Mike Ratri.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -443,7 +443,7 @@
         "_id": 56,
         "season": 1,
         "name": "Monica",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Monica.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Monica.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -451,7 +451,7 @@
         "_id": 57,
         "season": 1,
         "name": "Mujer de Bayon II",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Mujer de Bayon II.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Mujer de Bayon II.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -459,7 +459,7 @@
         "_id": 58,
         "season": 1,
         "name": "Mujika",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Mujika.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Mujika.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -467,7 +467,7 @@
         "_id": 59,
         "season": 1,
         "name": "Naila",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Naila.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Naila.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -475,7 +475,7 @@
         "_id": 60,
         "season": 1,
         "name": "Nat",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Nat.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Nat.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -483,7 +483,7 @@
         "_id": 61,
         "season": 1,
         "name": "Nigel",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Nigel.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Nigel.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -491,7 +491,7 @@
         "_id": 62,
         "season": 1,
         "name": "Nina",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Nina.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Nina.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -499,7 +499,7 @@
         "_id": 63,
         "season": 1,
         "name": "Norman",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Norman.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Norman.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -507,7 +507,7 @@
         "_id": 64,
         "season": 1,
         "name": "Noum",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Noum.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Noum.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -515,7 +515,7 @@
         "_id": 65,
         "season": 1,
         "name": "Nouma",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Nouma.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Nouma.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -523,7 +523,7 @@
         "_id": 66,
         "season": 1,
         "name": "Nous",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Nous.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Nous.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -531,7 +531,7 @@
         "_id": 67,
         "season": 1,
         "name": "Oliver",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Oliver.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Oliver.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -539,7 +539,7 @@
         "_id": 68,
         "season": 1,
         "name": "Olivia",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Olivia.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Olivia.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -547,7 +547,7 @@
         "_id": 69,
         "season": 1,
         "name": "Padre de Ayshe",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Padre de Ayshe.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Padre de Ayshe.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -555,7 +555,7 @@
         "_id": 70,
         "season": 1,
         "name": "Palvus",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Palvus.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Palvus.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -563,7 +563,7 @@
         "_id": 71,
         "season": 1,
         "name": "PANEL",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/PANEL.xcf",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/PANEL.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -571,7 +571,7 @@
         "_id": 72,
         "season": 1,
         "name": "Paula",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Paula.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Paula.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -579,7 +579,7 @@
         "_id": 73,
         "season": 1,
         "name": "Pepe",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Pepe.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Pepe.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -587,7 +587,7 @@
         "_id": 74,
         "season": 1,
         "name": "Peter Ratri",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Peter Ratri.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Peter Ratri.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -595,7 +595,7 @@
         "_id": 75,
         "season": 1,
         "name": "Phil",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Phil.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Phil.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -603,7 +603,7 @@
         "_id": 76,
         "season": 1,
         "name": "Pupo",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Pupo.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Pupo.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -611,7 +611,7 @@
         "_id": 77,
         "season": 1,
         "name": "Ray",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Ray.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Ray.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -619,7 +619,7 @@
         "_id": 78,
         "season": 1,
         "name": "Reglavalima",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Reglavalima.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Reglavalima.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -627,7 +627,7 @@
         "_id": 79,
         "season": 1,
         "name": "Robert",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Robert.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Robert.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -635,7 +635,7 @@
         "_id": 80,
         "season": 1,
         "name": "Rossi",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Rossi.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Rossi.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -643,7 +643,7 @@
         "_id": 81,
         "season": 1,
         "name": "Sadie",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Sadie.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Sadie.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -651,7 +651,7 @@
         "_id": 82,
         "season": 1,
         "name": "Sandy",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Sandy.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Sandy.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -659,7 +659,7 @@
         "_id": 83,
         "season": 1,
         "name": "Sarah",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Sarah.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Sarah.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -667,7 +667,7 @@
         "_id": 84,
         "season": 1,
         "name": "Scarlet",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Scarlet.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Scarlet.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -675,7 +675,7 @@
         "_id": 85,
         "season": 1,
         "name": "Sherry",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Sherry.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Sherry.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -683,7 +683,7 @@
         "_id": 86,
         "season": 1,
         "name": "Sienna",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Sienna.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Sienna.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -691,7 +691,7 @@
         "_id": 87,
         "season": 1,
         "name": "Simon",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Simon.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Simon.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -699,7 +699,7 @@
         "_id": 88,
         "season": 1,
         "name": "Sonia",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Sonia.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Sonia.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -707,7 +707,7 @@
         "_id": 89,
         "season": 1,
         "name": "Sonju",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Sonju.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Sonju.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -715,7 +715,7 @@
         "_id": 90,
         "season": 1,
         "name": "Susan",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Susan.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Susan.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -723,7 +723,7 @@
         "_id": 91,
         "season": 1,
         "name": "Theo",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Theo.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Theo.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -731,7 +731,7 @@
         "_id": 92,
         "season": 1,
         "name": "Thoma",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Thoma.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Thoma.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -739,7 +739,7 @@
         "_id": 93,
         "season": 1,
         "name": "Tom",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Tom.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Tom.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -747,7 +747,7 @@
         "_id": 94,
         "season": 1,
         "name": "Vincent",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Vincent.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Vincent.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -755,7 +755,7 @@
         "_id": 95,
         "season": 1,
         "name": "Violet",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Violet.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Violet.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -763,7 +763,7 @@
         "_id": 96,
         "season": 1,
         "name": "Vivian",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Vivian.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Vivian.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -771,7 +771,7 @@
         "_id": 97,
         "season": 1,
         "name": "William Minerva",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/William Minerva.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/William Minerva.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -779,7 +779,7 @@
         "_id": 98,
         "season": 1,
         "name": "Windmill",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Windmill.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Windmill.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -787,7 +787,7 @@
         "_id": 99,
         "season": 1,
         "name": "Yugo",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Yugo.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Yugo.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -795,7 +795,7 @@
         "_id": 100,
         "season": 1,
         "name": "Yukko",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Yukko.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Yukko.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -803,7 +803,7 @@
         "_id": 101,
         "season": 1,
         "name": "Yverk",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Yverk.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Yverk.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -811,7 +811,7 @@
         "_id": 102,
         "season": 1,
         "name": "Yvette",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Yvette.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Yvette.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -819,7 +819,7 @@
         "_id": 103,
         "season": 1,
         "name": "Zack",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Zack.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Zack.jpeg",
         "status": "VIVO",
         "asesino": null
     },
@@ -827,7 +827,7 @@
         "_id": 104,
         "season": 1,
         "name": "Zazie",
-        "image": "https://raw.githubusercontent.com/zackproject/api/royale/t1/Zazie.jpeg",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t1/Zazie.jpeg",
         "status": "VIVO",
         "asesino": null
     }
