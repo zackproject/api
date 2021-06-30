@@ -1,0 +1,1218 @@
+[
+    {
+        "_id": 1,
+        "season": 3,
+        "name": "Abra",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Abra.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 2,
+        "season": 3,
+        "name": "Aerodactyl",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Aerodactyl.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 3,
+        "season": 3,
+        "name": "Alakazam",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Alakazam.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 4,
+        "season": 3,
+        "name": "Arbok",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Arbok.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 5,
+        "season": 3,
+        "name": "Arcanine",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Arcanine.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 6,
+        "season": 3,
+        "name": "Articuno",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Articuno.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 7,
+        "season": 3,
+        "name": "Beedrill",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Beedrill.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 8,
+        "season": 3,
+        "name": "Bellsprout",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Bellsprout.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 9,
+        "season": 3,
+        "name": "Blastoise",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Blastoise.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 10,
+        "season": 3,
+        "name": "Bulbasaur",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Bulbasaur.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 11,
+        "season": 3,
+        "name": "Butterfree",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Butterfree.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 12,
+        "season": 3,
+        "name": "Caterpie",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Caterpie.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 13,
+        "season": 3,
+        "name": "Chansey",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Chansey.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 14,
+        "season": 3,
+        "name": "Charizard",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Charizard.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 15,
+        "season": 3,
+        "name": "Charmander",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Charmander.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 16,
+        "season": 3,
+        "name": "Charmeleon",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Charmeleon.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 17,
+        "season": 3,
+        "name": "Clefable",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Clefable.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 18,
+        "season": 3,
+        "name": "Clefairy",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Clefairy.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 19,
+        "season": 3,
+        "name": "Cloyster",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Cloyster.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 20,
+        "season": 3,
+        "name": "Cubone",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Cubone.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 21,
+        "season": 3,
+        "name": "desktop",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/desktop.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 22,
+        "season": 3,
+        "name": "Dewgong",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Dewgong.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 23,
+        "season": 3,
+        "name": "Diglett",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Diglett.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 24,
+        "season": 3,
+        "name": "Ditto",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Ditto.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 25,
+        "season": 3,
+        "name": "Dodrio",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Dodrio.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 26,
+        "season": 3,
+        "name": "Doduo",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Doduo.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 27,
+        "season": 3,
+        "name": "Dragonair",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Dragonair.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 28,
+        "season": 3,
+        "name": "Dragonite",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Dragonite.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 29,
+        "season": 3,
+        "name": "Dratini",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Dratini.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 30,
+        "season": 3,
+        "name": "Drowzee",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Drowzee.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 31,
+        "season": 3,
+        "name": "Dugtrio",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Dugtrio.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 32,
+        "season": 3,
+        "name": "Eevee",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Eevee.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 33,
+        "season": 3,
+        "name": "Ekans",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Ekans.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 34,
+        "season": 3,
+        "name": "Electabuzz",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Electabuzz.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 35,
+        "season": 3,
+        "name": "Electrode",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Electrode.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 36,
+        "season": 3,
+        "name": "Exeggcute",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Exeggcute.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 37,
+        "season": 3,
+        "name": "Exeggutor",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Exeggutor.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 38,
+        "season": 3,
+        "name": "Farfetchd",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Farfetchd.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 39,
+        "season": 3,
+        "name": "Fearow",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Fearow.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 40,
+        "season": 3,
+        "name": "Flareon",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Flareon.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 41,
+        "season": 3,
+        "name": "Gastly",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Gastly.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 42,
+        "season": 3,
+        "name": "Gengar",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Gengar.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 43,
+        "season": 3,
+        "name": "Geodude",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Geodude.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 44,
+        "season": 3,
+        "name": "Gloom",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Gloom.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 45,
+        "season": 3,
+        "name": "Golbat",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Golbat.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 46,
+        "season": 3,
+        "name": "Goldeen",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Goldeen.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 47,
+        "season": 3,
+        "name": "Golduck",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Golduck.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 48,
+        "season": 3,
+        "name": "Golem",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Golem.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 49,
+        "season": 3,
+        "name": "Graveler",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Graveler.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 50,
+        "season": 3,
+        "name": "Grimer",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Grimer.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 51,
+        "season": 3,
+        "name": "Growlithe",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Growlithe.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 52,
+        "season": 3,
+        "name": "Gyarados",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Gyarados.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 53,
+        "season": 3,
+        "name": "Haunter",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Haunter.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 54,
+        "season": 3,
+        "name": "Hitmonchan",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Hitmonchan.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 55,
+        "season": 3,
+        "name": "Hitmonlee",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Hitmonlee.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 56,
+        "season": 3,
+        "name": "Horsea",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Horsea.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 57,
+        "season": 3,
+        "name": "Hypno",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Hypno.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 58,
+        "season": 3,
+        "name": "Ivysaur",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Ivysaur.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 59,
+        "season": 3,
+        "name": "Jigglypuff",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Jigglypuff.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 60,
+        "season": 3,
+        "name": "Jolteon",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Jolteon.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 61,
+        "season": 3,
+        "name": "Jynx",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Jynx.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 62,
+        "season": 3,
+        "name": "Kabuto",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Kabuto.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 63,
+        "season": 3,
+        "name": "Kabutops",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Kabutops.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 64,
+        "season": 3,
+        "name": "Kadabra",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Kadabra.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 65,
+        "season": 3,
+        "name": "Kakuna",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Kakuna.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 66,
+        "season": 3,
+        "name": "Kangaskhan",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Kangaskhan.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 67,
+        "season": 3,
+        "name": "Kingler",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Kingler.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 68,
+        "season": 3,
+        "name": "Koffing",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Koffing.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 69,
+        "season": 3,
+        "name": "Krabby",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Krabby.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 70,
+        "season": 3,
+        "name": "Lapras",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Lapras.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 71,
+        "season": 3,
+        "name": "Lickitung",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Lickitung.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 72,
+        "season": 3,
+        "name": "Machamp",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Machamp.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 73,
+        "season": 3,
+        "name": "Machoke",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Machoke.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 74,
+        "season": 3,
+        "name": "Machop",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Machop.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 75,
+        "season": 3,
+        "name": "Magikarp",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Magikarp.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 76,
+        "season": 3,
+        "name": "Magmar",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Magmar.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 77,
+        "season": 3,
+        "name": "Magnemite",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Magnemite.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 78,
+        "season": 3,
+        "name": "Magneton",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Magneton.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 79,
+        "season": 3,
+        "name": "Mankey",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Mankey.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 80,
+        "season": 3,
+        "name": "Marowak",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Marowak.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 81,
+        "season": 3,
+        "name": "Meowth",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Meowth.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 82,
+        "season": 3,
+        "name": "Metapod",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Metapod.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 83,
+        "season": 3,
+        "name": "Mew",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Mew.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 84,
+        "season": 3,
+        "name": "Mewtwo",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Mewtwo.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 85,
+        "season": 3,
+        "name": "Moltres",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Moltres.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 86,
+        "season": 3,
+        "name": "Mr-mime",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Mr-mime.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 87,
+        "season": 3,
+        "name": "Muk",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Muk.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 88,
+        "season": 3,
+        "name": "Nidoking",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Nidoking.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 89,
+        "season": 3,
+        "name": "Nidoqueen",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Nidoqueen.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 90,
+        "season": 3,
+        "name": "Nidoran-f",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Nidoran-f.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 91,
+        "season": 3,
+        "name": "Nidoran-m",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Nidoran-m.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 92,
+        "season": 3,
+        "name": "Nidorina",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Nidorina.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 93,
+        "season": 3,
+        "name": "Nidorino",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Nidorino.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 94,
+        "season": 3,
+        "name": "Ninetales",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Ninetales.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 95,
+        "season": 3,
+        "name": "Oddish",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Oddish.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 96,
+        "season": 3,
+        "name": "Omanyte",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Omanyte.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 97,
+        "season": 3,
+        "name": "Omastar",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Omastar.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 98,
+        "season": 3,
+        "name": "Onix",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Onix.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 99,
+        "season": 3,
+        "name": "Paras",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Paras.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 100,
+        "season": 3,
+        "name": "Parasect",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Parasect.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 101,
+        "season": 3,
+        "name": "Persian",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Persian.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 102,
+        "season": 3,
+        "name": "Pidgeot",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Pidgeot.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 103,
+        "season": 3,
+        "name": "Pidgeotto",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Pidgeotto.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 104,
+        "season": 3,
+        "name": "Pidgey",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Pidgey.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 105,
+        "season": 3,
+        "name": "Pikachu",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Pikachu.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 106,
+        "season": 3,
+        "name": "Pinsir",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Pinsir.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 107,
+        "season": 3,
+        "name": "Poliwag",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Poliwag.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 108,
+        "season": 3,
+        "name": "Poliwhirl",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Poliwhirl.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 109,
+        "season": 3,
+        "name": "Poliwrath",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Poliwrath.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 110,
+        "season": 3,
+        "name": "Ponyta",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Ponyta.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 111,
+        "season": 3,
+        "name": "Porygon",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Porygon.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 112,
+        "season": 3,
+        "name": "Primeape",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Primeape.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 113,
+        "season": 3,
+        "name": "Psyduck",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Psyduck.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 114,
+        "season": 3,
+        "name": "Raichu",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Raichu.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 115,
+        "season": 3,
+        "name": "Rapidash",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Rapidash.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 116,
+        "season": 3,
+        "name": "Raticate",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Raticate.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 117,
+        "season": 3,
+        "name": "Rattata",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Rattata.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 118,
+        "season": 3,
+        "name": "Rhydon",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Rhydon.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 119,
+        "season": 3,
+        "name": "Rhyhorn",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Rhyhorn.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 120,
+        "season": 3,
+        "name": "Sandshrew",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Sandshrew.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 121,
+        "season": 3,
+        "name": "Sandslash",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Sandslash.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 122,
+        "season": 3,
+        "name": "Scyther",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Scyther.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 123,
+        "season": 3,
+        "name": "Seadra",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Seadra.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 124,
+        "season": 3,
+        "name": "Seaking",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Seaking.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 125,
+        "season": 3,
+        "name": "Seel",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Seel.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 126,
+        "season": 3,
+        "name": "Shellder",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Shellder.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 127,
+        "season": 3,
+        "name": "Slowbro",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Slowbro.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 128,
+        "season": 3,
+        "name": "Slowpoke",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Slowpoke.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 129,
+        "season": 3,
+        "name": "Snorlax",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Snorlax.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 130,
+        "season": 3,
+        "name": "Spearow",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Spearow.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 131,
+        "season": 3,
+        "name": "Squirtle",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Squirtle.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 132,
+        "season": 3,
+        "name": "Starmie",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Starmie.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 133,
+        "season": 3,
+        "name": "Staryu",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Staryu.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 134,
+        "season": 3,
+        "name": "Tangela",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Tangela.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 135,
+        "season": 3,
+        "name": "Tauros",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Tauros.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 136,
+        "season": 3,
+        "name": "Tentacool",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Tentacool.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 137,
+        "season": 3,
+        "name": "Tentacruel",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Tentacruel.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 138,
+        "season": 3,
+        "name": "Vaporeon",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Vaporeon.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 139,
+        "season": 3,
+        "name": "Venomoth",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Venomoth.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 140,
+        "season": 3,
+        "name": "Venonat",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Venonat.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 141,
+        "season": 3,
+        "name": "Venusaur",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Venusaur.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 142,
+        "season": 3,
+        "name": "Victreebel",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Victreebel.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 143,
+        "season": 3,
+        "name": "Vileplume",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Vileplume.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 144,
+        "season": 3,
+        "name": "Voltorb",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Voltorb.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 145,
+        "season": 3,
+        "name": "Vulpix",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Vulpix.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 146,
+        "season": 3,
+        "name": "Wartortle",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Wartortle.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 147,
+        "season": 3,
+        "name": "Weedle",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Weedle.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 148,
+        "season": 3,
+        "name": "Weepinbell",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Weepinbell.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 149,
+        "season": 3,
+        "name": "Weezing",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Weezing.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 150,
+        "season": 3,
+        "name": "Wigglytuff",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Wigglytuff.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 151,
+        "season": 3,
+        "name": "Zapdos",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Zapdos.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    },
+    {
+        "_id": 152,
+        "season": 3,
+        "name": "Zubat",
+        "image": "https://raw.githubusercontent.com/zackproject/api/main/royale/t3/Zubat.jpeg",
+        "status": "VIVO",
+        "asesino": 0
+    }
+]
