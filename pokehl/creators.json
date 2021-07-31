@@ -1,0 +1,94 @@
+{
+    "creators": [
+        {
+            "creator_name": "Zack Project",
+            "code": "MULTIG3N",
+            "dex": 898,
+            "visible": true,
+            "encrypted": false,
+            "description": "Todas las generaciones. All generations",
+            "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/logo_lite.png",
+            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/db.json"
+        },
+        {
+            "creator_name": "Zack Project",
+            "code": "G3N1",
+            "dex": 151,
+            "visible": true,
+            "encrypted": false,
+            "description": "Primera generacion. First generation",
+            "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/1_kanto.png",
+            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_1.json"
+        },
+        {
+            "creator_name": "Zack Project",
+            "code": "G3N2",
+            "dex": 100,
+            "visible": true,
+            "encrypted": false,
+            "description": "Segunda generacion. Second generation",
+            "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/2_johto.png",
+            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_2.json"
+        },
+        {
+            "creator_name": "Zack Project",
+            "code": "G3N3",
+            "dex": 135,
+            "visible": true,
+            "encrypted": false,
+            "description": "Tercera generacion. Third generation",
+            "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/3_hoenn.png",
+            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_3.json"
+        },
+        {
+            "creator_name": "Zack Project",
+            "code": "G3N4",
+            "dex": 107,
+            "visible": true,
+            "encrypted": false,
+            "description": "Cuarta generacion. Fourth generation",
+            "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/4_sinnoh.png",
+            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_4.json"
+        },
+        {
+            "creator_name": "Zack Project",
+            "code": "G3N5",
+            "dex": 107,
+            "visible": true,
+            "encrypted": false,
+            "description": "Quinta generacion. Fifth generation",
+            "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/5_teselia.png",
+            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_5.json"
+        },
+        {
+            "creator_name": "Zack Project",
+            "code": "G3N6",
+            "dex": 107,
+            "visible": true,
+            "encrypted": false,
+            "description": "Sexta generacion. Sixth generation",
+            "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/6_kalos.png",
+            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_6.json"
+        },
+        {
+            "creator_name": "Zack Project",
+            "code": "G3N7",
+            "dex": 107,
+            "visible": true,
+            "encrypted": false,
+            "description": "Septima generacion. Seventh generation",
+            "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/7_alola.png",
+            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_7.json"
+        },
+        {
+            "creator_name": "Zack Project",
+            "code": "G3N8",
+            "dex": 107,
+            "visible": true,
+            "encrypted": false,
+            "description": "Octava generacion. Eighth generation",
+            "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/8_galar.png",
+            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_8.json"
+        }
+    ]
+}
