@@ -4,7 +4,7 @@
             "creator_name": "Zack Project",
             "code": "MULTIG3N",
             "dex": 898,
-            "visible": false,
+            "visible": true,
             "encrypted": false,
             "description": "Todas las generaciones. All generations",
             "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/logo_lite.png",
