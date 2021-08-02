@@ -14,7 +14,7 @@
             "creator_name": "Zack Project",
             "code": "G3N1",
             "dex": 151,
-            "visible": true,
+            "visible": false,
             "encrypted": false,
             "description": "Primera generacion. First generation",
             "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/1_kanto.png",
