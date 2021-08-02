@@ -53,7 +53,7 @@
         {
             "creator_name": "Zack Project",
             "code": "G3N5",
-            "dex": 107,
+            "dex": 156,
             "visible": true,
             "encrypted": false,
             "description": "Quinta generacion. Fifth generation",
@@ -63,7 +63,7 @@
         {
             "creator_name": "Zack Project",
             "code": "G3N6",
-            "dex": 107,
+            "dex": 72,
             "visible": true,
             "encrypted": false,
             "description": "Sexta generacion. Sixth generation",
@@ -73,7 +73,7 @@
         {
             "creator_name": "Zack Project",
             "code": "G3N7",
-            "dex": 107,
+            "dex": 88,
             "visible": true,
             "encrypted": false,
             "description": "Septima generacion. Seventh generation",
@@ -83,7 +83,7 @@
         {
             "creator_name": "Zack Project",
             "code": "G3N8",
-            "dex": 107,
+            "dex": 89,
             "visible": true,
             "encrypted": false,
             "description": "Octava generacion. Eighth generation",
