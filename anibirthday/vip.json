@@ -1,0 +1,16 @@
+[
+   {
+      "date":0,
+      "name_sr":"Twitter",
+      "user_sr":"zackprojectapp",
+      "link_sr":"https://twitter.com/zackprojectapp",
+      "name":"Zack",
+      "image":"https://raw.github.com/zackproject/api/main/anibirthday/images/zackprojectapp.jpg",
+      "gender":"Male",
+      "day":21,
+      "month":3,
+      "desc_en":"I'm the developer. I like anime, manga and easter eggs. zackpr0j3ct",
+      "desc_esp":"Soy el desarrollador. Me gusta el anime, el manga y los easter eggs. zackpr0j3ct",
+      "anime_game":104694
+   }
+] 
