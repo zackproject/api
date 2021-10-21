@@ -12,5 +12,19 @@
       "desc_en":"I'm the developer. I like anime, manga and easter eggs. 'zackpr0j3ct'",
       "desc_esp":"Soy el desarrollador. Me gusta el anime, el manga y los easter eggs. 'zackpr0j3ct'",
       "anime_game":104694
+   }, 
+{
+      "date":1666359254,
+      "name_sr":"Instagram",
+      "user_sr":"soniruza",
+      "link_sr":"https://instagram.com/soniruza",
+      "name":"Sonia",
+      "image":"https://raw.githubusercontent.com/zackproject/api/main/anibirthday/images/soniruza.jpg",
+      "gender":"Female",
+      "day":27,
+      "month":3,
+      "desc_en":"I'm the illustrator, writer and creator of Webtoon's 'Starlight'",
+      "desc_esp":"Soy ilustradora, escritora y creadora del Webtoon 'Starlight' ",
+      "anime_game":106339
    }
 ] 
