@@ -10,5 +10,9 @@
 	{
 		"title": "Otros casos",
 		"desc": "Excepcionalmente puedo ponerme en contacto con usted y ofrecerle aparecer en la app de forma limitada o indefinida."
-	}
+	}, 
+        {
+                "title": "Evento Manga Barcelona", 
+                 "desc":"Encuéntrame en el salón del manga y aparecerás de forma temporal en esta app. A través de un juego se decidirá el tiempo (desde 1 día a 365 días). Más info en mi Twitter (el mismo día del evento)"
+        } 
 ]
