@@ -15,10 +15,10 @@
             "code": "G3N1",
             "dex": 151,
             "visible": true,
-            "encrypted": false,
-            "description": "Primera generacion. First generation",
+            "encrypted": true,
+            "description": "Primera generación. First generation",
             "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/1_kanto.png",
-            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_1.json"
+            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_1.json.zack"
         },
         {
             "creator_name": "Zack Project",
@@ -26,7 +26,7 @@
             "dex": 100,
             "visible": true,
             "encrypted": false,
-            "description": "Segunda generacion. Second generation",
+            "description": "Segunda generación. Second generation",
             "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/2_johto.png",
             "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_2.json"
         },
@@ -56,7 +56,7 @@
             "dex": 156,
             "visible": true,
             "encrypted": false,
-            "description": "Quinta generacion. Fifth generation",
+            "description": "Quinta generación. Fifth generation",
             "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/5_teselia.png",
             "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_5.json"
         },
@@ -76,7 +76,7 @@
             "dex": 88,
             "visible": true,
             "encrypted": false,
-            "description": "Septima generacion. Seventh generation",
+            "description": "Septima generación. Seventh generation",
             "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/7_alola.png",
             "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_7.json"
         },
@@ -86,7 +86,7 @@
             "dex": 89,
             "visible": true,
             "encrypted": false,
-            "description": "Octava generacion. Eighth generation",
+            "description": "Octava generación. Eighth generation",
             "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/8_galar.png",
             "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_8.json"
         }
