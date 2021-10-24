@@ -15,10 +15,10 @@
             "code": "G3N1",
             "dex": 151,
             "visible": true,
-            "encrypted": true,
+            "encrypted": false,
             "description": "Primera generación. First generation",
             "imageGame": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/images/1_kanto.png",
-            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_1.json.zack"
+            "urlDatabase": "https://raw.githubusercontent.com/zackproject/api/main/pokehl/db_1.json"
         },
         {
             "creator_name": "Zack Project",
