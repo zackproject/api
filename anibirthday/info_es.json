@@ -3,6 +3,10 @@
 		"title": "Información General",
 		"desc": "1. Todos los datos personales han sido cedidos voluntariamente para aparecer en esta app y se almacenan en un repositorio git público. 2. No se admitirá ninguna información de carácter delicado como descripción, red social o imágenes no aptas para menores de edad, tampoco imágenes reales en caso de ser menor de edad. 3. Pasado el tiempo indicado el usuario será eliminado de la app. Cada usuario tiene un código único por el cual puede pedir la modificación o eliminación de sus datos, en caso de no tenerlo se considerará intento de suplantación y solo será borrado pasado el tiempo estipulado. 4. El creador se guarda el derecho de admitir, denegar o eliminar cualquier información por cualquier causa."
 	},
+        {
+                "title":"Navidad en Twitter", 
+                "desc" :"Cita mi tweet anclado con el personaje de anime con el que pasarías la Navidad y por qué. Las personas que escriban los tweets más ingeniosos podrán aparecer en la app por tiempo limitado."
+        }, 
 	{
 		"title": "Easter Eggs - Pokehigher or Pokelower",
 		"desc": "La app 'Pokehigher or Pokelower' de Play Store tiene 4 easter eggs ocultos. El primero que encuentre todos aparecerá en la app por 365 días. La 'descripción' del usuario tendrá el hashtag #4pokeastereggs para indicar quien lo encontró."
@@ -10,8 +14,5 @@
 	{
 		"title": "Otros casos",
 		"desc": "Excepcionalmente puedo ponerme en contacto con usted y ofrecerle aparecer en la app de forma limitada o indefinida."
-	}, 
-                "title":"Navidad en Twitter", 
-                "desc" :"Cita mi tweet anclado con el personaje de anime con el que pasarías la Navidad y por qué. Las personas que escriban los tweets más ingeniosos podrán aparecer en la app por tiempo limitado."
-        } 
+	}
 ]
