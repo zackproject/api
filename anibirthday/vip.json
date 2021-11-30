@@ -26,5 +26,19 @@
       "desc_en":"I'm the illustrator, writer and creator of Webtoon's 'Starlight'",
       "desc_esp":"Soy ilustradora, escritora y creadora del Webtoon 'Starlight' ",
       "anime_game":106339
+},
+{
+      "date":1641596400,
+      "name_sr":"Twitter",
+      "user_sr":"JoelyellieDiego",
+      "link_sr":"https://twitter.com/JoelyellieDiego",
+      "name":"Diego",
+      "image":"https://raw.githubusercontent.com/zackproject/api/main/anibirthday/images/joel_and_diego.png",
+      "gender":"Male",
+      "day":7,
+      "month":12,
+      "desc_en":"I am into entertainment. I like anime, series in general and reading from manga, comics or books. Knowing how to enjoy is the key.",
+      "desc_esp":"Estoy en el entretenimiento. Me gusta el anime, series en general y leer desde mangas, comics o libros. Saber disfrutar es la clave.",
+      "anime_game":101921
    }
 ] 
