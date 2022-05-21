@@ -9,5 +9,9 @@
 	{
 		"title": "Other cases",
 		"desc": "Exceptionally, I can contact you and offer to appear in the app with limited or unlimited time."
-	}
+	},
+        {
+          "title": "Rate my app",
+          "desc": "Rate my app with 5 stars and comment your favourite character in the review."
+        }
 ]
