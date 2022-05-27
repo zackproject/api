@@ -1,7 +1,7 @@
 [
 	{
 		"title": "Información General",
-		"desc": "1. Todos los datos personales han sido cedidos voluntariamente para aparecer en esta app y se almacenan en un repositorio git público. 2. No se admitirá ninguna información de carácter delicado como descripción, red social o imágenes no aptas para menores de edad, tampoco imágenes reales en caso de ser menor de edad. 3. Pasado el tiempo indicado el usuario será eliminado de la app. Cada usuario tiene un código único por el cual puede pedir la modificación o eliminación de sus datos, en caso de no tenerlo se considerará intento de suplantación y solo será borrado pasado el tiempo estipulado. 4. El creador se guarda el derecho de admitir, denegar o eliminar cualquier información por cualquier causa."
+		"desc": "1. Todos los datos personales han sido cedidos voluntariamente para aparecer en esta app y están almacenados en un repositorio git público. 2. No se aceptarán datos sensibles como descripción, red social o imágenes no aptas para menores, ni imágenes reales en caso de ser menor de edad. 3. Pasado el tiempo indicado el usuario será eliminado de la app. 4. Todos los usuarios pueden solicitar la modificación o eliminación de sus datos a través de un correo electrónico, en el caso de que el correo no se corresponda con el correo del formulario rellenado para aparecer en la app, se considerará un intento de suplantación de identidad y sólo se eliminará pasado el tiempo estipulado. 5. El creador se reserva el derecho de admitir, negar o eliminar cualquier información por cualquier motivo."
 	},
 	{
 		"title": "Easter Eggs - Pokehigher or Pokelower",
